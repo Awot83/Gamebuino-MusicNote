@@ -1,8 +1,8 @@
 # MusicNote
 Music Note : the music learning tool
 
-Hello,
-I made this tool to learn how to read music notes.
+Hello, I made this tool to learn how to read music notes.
+
 Functions:
 - 4 notes on a musical stave with their names, (left/right and up/down to modify)
 - Press A to switch Treble Key (clef de SOL) and Bass key (clef de FA)
